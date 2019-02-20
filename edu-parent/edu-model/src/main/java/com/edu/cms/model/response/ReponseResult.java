@@ -4,7 +4,7 @@ package com.edu.cms.model.response;
 import lombok.ToString;
 
 /**
- * Created by mrt on 2018/3/5.
+ * 
  */
 @ToString
 public class ReponseResult  {
