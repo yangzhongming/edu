@@ -47,6 +47,6 @@
 		<module>edu-cms-interface</module>
 		<module>edu-cms-service</module>
 		<module>edu-cms-web</module>
-    <module>edu-cms-dao</module>
+        <module>edu-cms-dao</module>
   </modules>
 </project>
